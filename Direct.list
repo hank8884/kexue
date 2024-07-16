@@ -5,6 +5,7 @@
 DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
+DOMAIN-SUFFIX,cloudflare.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
@@ -12,7 +13,6 @@ DOMAIN-KEYWORD,cloudflare
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
-IP-CIDR,1.1.1.1/32,no-resolve
 
 # 国内DNS
 DOMAIN-SUFFIX,dns.alidns.com
