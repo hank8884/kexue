@@ -1,5 +1,6 @@
 # 内容：DISCORD
 # 域名关键字匹配
+DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discord.gg
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,discordapp.net
