@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,makersuite.google.com
 DOMAIN-SUFFIX,anthropic.com
 DOMAIN-SUFFIX,claude.ai.com
 DOMAIN-SUFFIX,player.vimeo.com
+IP-CIDR,162.159.137.232/32,no-resolve
 
 # discord
 DOMAIN-SUFFIX,airhorn.solutions
